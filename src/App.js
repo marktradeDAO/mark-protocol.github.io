@@ -57,10 +57,6 @@ function App() {
         <Grid item xs={8}>
           <img className="creatorBrandExchange" style={creatorBrandExchangeStyle} src={creatorBrandExchange} alt="Creators and brands can exchange Marks"/>
         </Grid>
-        <Grid item xs={4}>
-
-        </Grid>
-
       </Grid>
 
     </div>

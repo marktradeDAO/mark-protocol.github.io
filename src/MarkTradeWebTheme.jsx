@@ -26,10 +26,6 @@ const MarkTradeWebTheme = createTheme({
       }
     }, 
     components: {
-      MarkTradeLogo: {
-        width: '50%',
-        height: '50%'
-      },
       Container: {
         styleOverrides: {
           root: {

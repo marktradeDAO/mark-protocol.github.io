@@ -5,8 +5,27 @@ p {
   margin-inline-end: 0px;
 }
 
+.image.markTradeLogo: {
+  width: 640px;
+  height: 640px;
+}
+
+h1 {
+  color: navy
+}
+
 .App {
   text-align: center;
+}
+
+.AppBar {
+  background-color: #000080;
+  color: #000080
+}
+
+.Toolbar {
+  background-color: #000080;
+  color: #000080;
 }
 
 .landing-container {
